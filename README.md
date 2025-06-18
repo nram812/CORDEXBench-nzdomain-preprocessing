@@ -1,5 +1,3 @@
----
-
 # Processing Data for CORDEX-Bench NZ
 
 This repository provides scripts for processing datasets used in the CORDEX-Bench NZ benchmarking framework. It includes workflows for handling:
